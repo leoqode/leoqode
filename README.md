@@ -11,4 +11,3 @@ Currently : Coding probably
 
 [![Tools](https://skillicons.dev/icons?i=vscode,postman,github,figma,threejs,vite&theme=dark)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoqode)](https://github.com/leoqode/github-readme-stats)
